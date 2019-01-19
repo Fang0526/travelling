@@ -9,3 +9,4 @@ Beijing is your hometown.
 
 # Yunnan
 Yunnan has different cultures.
+Yunnan is the place you want to live when you are retired.
