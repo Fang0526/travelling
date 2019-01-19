@@ -8,3 +8,4 @@ Beijing is longly.
 Beijing is your hometown.
 
 # Yunnan
+Yunnan has different cultures.
