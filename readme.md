@@ -13,3 +13,4 @@ Beijing is far from my hometown.
 Yunnan has different cultures.
 Yunnan is the place you want to live when you are retired.
 Yunnan has many beautiful view.
+Yunnna is far from your hometown.
