@@ -7,6 +7,7 @@ There are two cities about you.
 Beijing is longly.
 Beijing is your hometown.
 Beijing has no snow in winter.
+Beijing is far from my hometown.
 
 # Yunnan
 Yunnan has different cultures.
